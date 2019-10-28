@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Score: MyString
+  intenger: MyString
+  ResultTime: MyString
+  date: MyString
+
+two:
+  Score: MyString
+  intenger: MyString
+  ResultTime: MyString
+  date: MyString
